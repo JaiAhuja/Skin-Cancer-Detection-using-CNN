@@ -14,4 +14,4 @@ The data set contains the following diseases:
 - Squamous cell carcinoma
 - Vascular lesion
 
-Dataset Link: 
+Dataset Link: https://www.kaggle.com/jaiahuja/skin-cancer-detection
